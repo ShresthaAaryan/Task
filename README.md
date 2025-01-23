@@ -117,19 +117,6 @@ Add due dates, reminders, and notifications for tasks.
 10. Theming and Dark Mode
 Add support for themes and a dark mode for better user experience.
 
-Contributing
-Contributions are welcome! If you’d like to contribute, please follow these steps:
-
-Fork the repository.
-
-Create a new branch for your feature or bugfix.
-
-Commit your changes and push to your fork.
-
-Submit a pull request with a detailed description of your changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
 @dnd-kit for the drag-and-drop library.
